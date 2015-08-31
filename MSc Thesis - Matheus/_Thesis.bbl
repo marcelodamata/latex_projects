@@ -1,0 +1,309 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.1 }
+
+\bibitem[Bailey and Lovie 1976]{Bailey1976}
+\abntrefinfo{Bailey and Lovie}{BAILEY; LOVIE}{1976}
+{BAILEY, I.; LOVIE, J. New design principles for visual acuity letter charts.
+\textbf{American journal of optometry and physiological optics}, v.~53, n.~11,
+  p. 740---745, November 1976.
+ISSN 0093-7002.
+Available from Internet: \url{http://europepmc.org/abstract/MED/998716}.}
+
+\bibitem[Barsky 2004]{Barsky2004}
+\abntrefinfo{Barsky}{BARSKY}{2004}
+{BARSKY, B.~A. Vision-realistic rendering: Simulation of the scanned foveal
+  image from wavefront data of human subjects. In:  \textbf{Proceedings of the
+  1st Symposium on Applied Perception in Graphics and Visualization}. New York,
+  NY, USA: ACM, 2004.  (APGV '04), p. 73--81.
+ISBN 1-58113-914-4. Available from Internet:
+  \url{http://doi.acm.org/10.1145/1012551.1012564}.}
+
+\bibitem[Blake and Sekuler 2005]{Blake2005}
+\abntrefinfo{Blake and Sekuler}{BLAKE; SEKULER}{2005}
+{BLAKE, R.; SEKULER, R. \textbf{Perception}. 5. ed. New York, NY, USA:
+  McGraw-Hill Humanities/Social Sciences/Languages, 2005.}
+
+\bibitem[Camp, Maguire and Robb 1990]{Camp1990}
+\abntrefinfo{Camp, Maguire and Robb}{CAMP; MAGUIRE; ROBB}{1990}
+{CAMP, J.; MAGUIRE, L.; ROBB, R. An efficient ray tracing algorithm for
+  modeling visual performance from corneal topography. In:
+  \textbf{Visualization in Biomedical Computing, 1990., Proceedings of the
+  First Conference on}. [S.l.: s.n.], 1990. p. 278--285.}
+
+\bibitem[Dai 2008]{Dai2008}
+\abntrefinfo{Dai}{DAI}{2008}
+{DAI, G.-m. \textbf{Wavefront Optics for Vision Correction}. Bellingham,
+  Washington USA: SPIE PRESS, 2008.}
+
+\bibitem[Deering 2005]{Deering2005}
+\abntrefinfo{Deering}{DEERING}{2005}
+{DEERING, M.~F. A photon accurate model of the human eye.
+\textbf{ACM Trans. Graph.}, ACM, New York, NY, USA, v.~24, n.~3, p. 649--658,
+  jul 2005.
+ISSN 0730-0301.
+Available from Internet: \url{http://doi.acm.org/10.1145/1073204.1073243}.}
+
+\bibitem[Dias-Santos et al. 2014]{Dias2014}
+\abntrefinfo{Dias-Santos et al.}{DIAS-SANTOS et al.}{2014}
+{DIAS-SANTOS, A. et al. Higher order aberrations in amblyopic children and
+  their role in refractory amblyopia.
+\textbf{Revista Brasileira de Oftalmologia}, SciELO Brasil, v.~73, p. 358--362,
+  12 2014.
+ISSN 0034-7280.
+Available from Internet:
+  \url{http://www.scielo.br/scielo.php?script=sci\_arttext&pid=S0034-72802014000600358&nrm=iso}.}
+
+\bibitem[Glytsis 2014]{Glytsis2014}
+\abntrefinfo{Glytsis}{GLYTSIS}{2014}
+{GLYTSIS, E.~N. Example of a simple optical system. Class Note. 2014.}
+
+\bibitem[Goodman 2005]{Goodman2005}
+\abntrefinfo{Goodman}{GOODMAN}{2005}
+{GOODMAN, J.~W. \textbf{Introduction to Fourier optics}. 3. ed. Englewood:
+  Roberts and Company Publishers, 2005.}
+
+\bibitem[Huang et al. 2012]{Huang2012}
+\abntrefinfo{Huang et al.}{HUANG et al.}{2012}
+{HUANG, F.-C. et al. Correcting for optical aberrations using multilayer
+  displays.
+\textbf{ACM Trans. Graph.}, ACM, New York, NY, USA, v.~31, n.~6, p.
+  185:1--185:12, nov 2012.
+ISSN 0730-0301.
+Available from Internet: \url{http://doi.acm.org/10.1145/2366145.2366204}.}
+
+\bibitem[Huang et al. 2014]{Huang2014}
+\abntrefinfo{Huang et al.}{HUANG et al.}{2014}
+{HUANG, F.-C. et al. Eyeglasses-free display: Towards correcting visual
+  aberrations with computational light field displays.
+\textbf{ACM Trans. Graph.}, ACM, New York, NY, USA, v.~33, n.~4, p.
+  59:1--59:12, jul. 2014.
+ISSN 0730-0301.
+Available from Internet: \url{http://doi.acm.org/10.1145/2601097.2601122}.}
+
+\bibitem[King 2012]{King2012}
+\abntrefinfo{King}{KING}{2012}
+{KING, L.~A. \textbf{Experience Psychology}. 2. ed. [S.l.]: McGraw-Hill
+  Education, 2012.}
+
+\bibitem[Klein 2001]{Klein2001}
+\abntrefinfo{Klein}{KLEIN}{2001}
+{KLEIN, S.~A. Measuring, estimating, and understanding the psychometric
+  function: a commentary.
+\textbf{Perception \& Psychophysics}, v.~63, p. 1421--1455, 2001.}
+
+\bibitem[Kolb, Mitchell and Hanrahan 1995]{Kolb1995}
+\abntrefinfo{Kolb, Mitchell and Hanrahan}{KOLB; MITCHELL; HANRAHAN}{1995}
+{KOLB, C.; MITCHELL, D.; HANRAHAN, P. A realistic camera model for computer
+  graphics. In:  \textbf{Proceedings of the 22Nd Annual Conference on Computer
+  Graphics and Interactive Techniques}. New York, NY, USA: ACM, 1995.
+  (SIGGRAPH '95), p. 317--324.
+ISBN 0-89791-701-4. Available from Internet:
+  \url{http://doi.acm.org/10.1145/218380.218463}.}
+
+\bibitem[Kronbauer 2015]{Kronbauer2015}
+\abntrefinfo{Kronbauer}{KRONBAUER}{2015}
+{KRONBAUER, A.~L. Personal communication. -. 2015.}
+
+\bibitem[Kronbauer et al. 2011]{Kronbauer2011}
+\abntrefinfo{Kronbauer et al.}{KRONBAUER et al.}{2011}
+{KRONBAUER, A.~L. et al. Vision measurement in candelas: description of a
+  psychophysical technique to quantify luminous intensity.
+\textbf{Arquivos brasileiros de oftalmologia}, v.~74, n.~2, p. 91---96, 2011.
+ISSN 0004-2749.
+Available from Internet:
+  \url{http://dx.doi.org/10.1590/S0004-27492011000200004}.}
+
+\bibitem[Leek 2001]{Leek2001}
+\abntrefinfo{Leek}{LEEK}{2001}
+{LEEK, M.~R. Adaptive procedures in psychophysical research.
+\textbf{Perception \& Psychophysics}, v.~63, n.~8, p. 1279--1292, 2001.}
+
+\bibitem[Lemma 2005]{Lemma2005}
+\abntrefinfo{Lemma}{LEMMA}{2005}
+{LEMMA, G. General psychology. Lecture Notes. 2005.}
+
+\bibitem[Liang et al. 1994]{Liang1994}
+\abntrefinfo{Liang et al.}{LIANG et al.}{1994}
+{LIANG, J. et al. Objective measurement of wave aberrations of the human eye
+  with the use of a hartmann--shack wave-front sensor.
+\textbf{J. Opt. Soc. Am. A}, OSA, v.~11, n.~7, p. 1949--1957, Jul 1994.
+Available from Internet:
+  \url{http://josaa.osa.org/abstract.cfm?URI=josaa-11-7-1949}.}
+
+\bibitem[Machado, Oliveira and Fernandes 2009]{Machado2009}
+\abntrefinfo{Machado, Oliveira and Fernandes}{MACHADO; OLIVEIRA;
+  FERNANDES}{2009}
+{MACHADO, G.~M.; OLIVEIRA, M.; FERNANDES, L.~A. A physiologically-based model
+  for simulation of color vision deficiency.
+\textbf{Visualization and Computer Graphics, IEEE Transactions on}, v.~15,
+  n.~6, p. 1291--1298, Nov 2009.
+ISSN 1077-2626.}
+
+\bibitem[Meister 2010]{Meister2010}
+\abntrefinfo{Meister}{MEISTER}{2010}
+{MEISTER, D. Wavefront aberrations and spectacle lenses: part one.
+\textbf{Association of British Dispensing Opticians}, p.~6, 2010.}
+
+\bibitem[Mollon 2003]{Mollon2003}
+\abntrefinfo{Mollon}{MOLLON}{2003}
+{MOLLON, J. \textbf{The origins of modern color science}. 2. ed. Oxford, UK:
+  Elsevier, 2003.}
+
+\bibitem[Montalto et al. 2015]{Montalto2015}
+\abntrefinfo{Montalto et al.}{MONTALTO et al.}{2015}
+{MONTALTO, C. et al. A total variation approach for customizing imagery to
+  improve visual acuity.
+\textbf{ACM Trans. Graph.}, ACM, New York, NY, USA, v.~34, n.~3, p.
+  28:1--28:16, may 2015.
+ISSN 0730-0301.
+Available from Internet: \url{http://doi.acm.org/10.1145/2717307}.}
+
+\bibitem[Mostafawy, Kermani and Lubatschowski 1997]{Mostafawy1997}
+\abntrefinfo{Mostafawy, Kermani and Lubatschowski}{MOSTAFAWY; KERMANI;
+  LUBATSCHOWSKI}{1997}
+{MOSTAFAWY, S.; KERMANI, O.; LUBATSCHOWSKI, H. Virtual eye: retinal image
+  visualization of the human eye.
+\textbf{Computer Graphics and Applications, IEEE}, v.~17, n.~1, p. 8--12, Jan
+  1997.
+ISSN 0272-1716.}
+
+\bibitem[Pamplona et al. 2010]{Pamplona2010}
+\abntrefinfo{Pamplona et al.}{PAMPLONA et al.}{2010}
+{PAMPLONA, V.~F. et al. Netra: Interactive display for estimating refractive
+  errors and focal range.
+\textbf{ACM Trans. Graph.}, ACM, New York, NY, USA, v.~29, n.~4, p. 77:1--77:8,
+  7 2010.
+ISSN 0730-0301.
+Available from Internet: \url{http://doi.acm.org/10.1145/1778765.1778814}.}
+
+\bibitem[Pamplona et al. 2012]{Pamplona2012b}
+\abntrefinfo{Pamplona et al.}{PAMPLONA et al.}{2012}
+{PAMPLONA, V.~F. et al. Tailored displays to compensate for visual aberrations.
+\textbf{ACM Trans. Graph.}, v.~31, n.~4, p.~81, 2012.}
+
+\bibitem[Pamplona, Oliveira and Baranoski 2009]{Pamplona2009}
+\abntrefinfo{Pamplona, Oliveira and Baranoski}{PAMPLONA; OLIVEIRA;
+  BARANOSKI}{2009}
+{PAMPLONA, V.~F.; OLIVEIRA, M.~M.; BARANOSKI, G. V.~G. Photorealistic models
+  for pupil light reflex and iridal pattern deformation.
+\textbf{ACM Trans. Graph.}, ACM, New York, NY, USA, v.~28, n.~4, p.
+  106:1--106:12, sep 2009.
+ISSN 0730-0301.
+Available from Internet: \url{http://doi.acm.org/10.1145/1559755.1559763}.}
+
+\bibitem[Pamplona et al. 2011]{Pamplona2011}
+\abntrefinfo{Pamplona et al.}{PAMPLONA et al.}{2011}
+{PAMPLONA, V.~F. et al. Catra: Interactive measuring and modeling of cataracts.
+  In:  \textbf{ACM SIGGRAPH 2011 Papers}. New York, NY, USA: ACM, 2011.
+  (SIGGRAPH '11), p. 47:1--47:8.
+ISBN 978-1-4503-0943-1. Available from Internet:
+  \url{http://doi.acm.org/10.1145/1964921.1964942}.}
+
+\bibitem[Pelli, Robson et al. 1988]{Pelli1988}
+\abntrefinfo{Pelli, Robson et al.}{PELLI; ROBSON et al.}{1988}
+{PELLI, D.; ROBSON, J. et al. The design of a new letter chart for measuring
+  contrast sensitivity. In:  \textbf{Clinical Vision Sciences}. [S.l.]:
+  Raphael's Ltd, London, 1988.}
+
+\bibitem[Potmesil and Chakravarty 1981]{Potmesil1981}
+\abntrefinfo{Potmesil and Chakravarty}{POTMESIL; CHAKRAVARTY}{1981}
+{POTMESIL, M.; CHAKRAVARTY, I. A lens and aperture camera model for synthetic
+  image generation.
+\textbf{ACM SIGGRAPH Computer Graphics}, ACM, v.~15, n.~3, p. 297--305, 1981.}
+
+\bibitem[Ritschel et al. 2009]{Ritschel2009}
+\abntrefinfo{Ritschel et al.}{RITSCHEL et al.}{2009}
+{RITSCHEL, T. et al. Temporal glare: Real-time dynamic simulation of the
+  scattering in the human eye.
+\textbf{Computer Graphics Forum}, Blackwell Publishing Ltd, v.~28, n.~2, p.
+  183--192, 2009.
+ISSN 1467-8659.
+Available from Internet:
+  \url{http://dx.doi.org/10.1111/j.1467-8659.2009.01357.x}.}
+
+\bibitem[Sacek 2015]{Sacek2015}
+\abntrefinfo{Sacek}{SACEK}{2015}
+{SACEK, V. \textbf{Monochromatic Eye Aberrations}. 2015.
+Available from Internet:
+  \url{http://www.telescope-optics.net/monochromatic\_eye\_aberrations.htm}.}
+
+\bibitem[Schwartz 2010]{Schwartz2010}
+\abntrefinfo{Schwartz}{SCHWARTZ}{2010}
+{SCHWARTZ, S.~H. \textbf{Visual perception: A clinical orientation}. 4. ed. New
+  York, NY, USA: McGraw-Hill Medical Pub. Division, 2010.}
+
+\bibitem[Schwiegerling 2004]{Schwiegerling2004}
+\abntrefinfo{Schwiegerling}{SCHWIEGERLING}{2004}
+{SCHWIEGERLING, J. \textbf{Field Guide to Visual and Ophthalmic Optics}.
+  [S.l.]: SPIE press Bellingham, WA, 2004.  (SPIE Field Guides, FG04).}
+
+\bibitem[Smith 2015]{Smith2015}
+\abntrefinfo{Smith}{SMITH}{2015}
+{SMITH, A. \textbf{PSFs in IDL}. 2015.
+Available from Internet:
+  \url{http://www.enkaptic.co.uk/2009/03/18/psfs-in-idl/}.}
+
+\bibitem[Thibos et al. 2002]{Thibos2002}
+\abntrefinfo{Thibos et al.}{THIBOS et al.}{2002}
+{THIBOS, L.~N. et al. Standards for reporting the optical aberrations of eyes.
+\textbf{Journal of refractive surgery}, Slack Incorporated, v.~18, n.~5, p.
+  S652--S660, 2002.}
+
+\bibitem[Thibos and Thibos 2011]{Thibos2011}
+\abntrefinfo{Thibos and Thibos}{THIBOS; THIBOS}{2011}
+{THIBOS, L.~N.; THIBOS, C.~A. Geometrical optical analysis of defocused retinal
+  images to compute the size of retinal blur circles relative to object size.
+\textbf{US Ophthalmic Review}, v.~4, n.~2, p. 104--106, 7 2011.}
+
+\bibitem[Tkaczyk 2010]{Tkaczyk2010}
+\abntrefinfo{Tkaczyk}{TKACZYK}{2010}
+{TKACZYK, T.~S. \textbf{Field Guide to Microscopy}. [S.l.]: SPIE press
+  Bellingham, WA, 2010.  (SPIE Field Guides, FG13).}
+
+\bibitem[Treutwein 1995]{Treutwein1995}
+\abntrefinfo{Treutwein}{TREUTWEIN}{1995}
+{TREUTWEIN, B. Adaptive psychophysical procedures.
+\textbf{Vision Research}, v.~17, n. 1503-2522, 1995.}
+
+\bibitem[Wang et al. 2004]{Wang2004}
+\abntrefinfo{Wang et al.}{WANG et al.}{2004}
+{WANG, Z. et al. Image quality assessment: from error visibility to structural
+  similarity.
+\textbf{Image Processing, IEEE Transactions on}, v.~13, n.~4, p. 600--612,
+  April 2004.
+ISSN 1057-7149.}
+
+\bibitem[Watson and Ahumada Jr 2008]{Watson2008}
+\abntrefinfo{Watson and Ahumada Jr}{WATSON; AHUMADA JR}{2008}
+{WATSON, A.~B.; AHUMADA JR, A.~J. Predicting visual acuity from wavefront
+  aberrations.
+\textbf{Journal of Vision}, v.~8, n.~4, p.~17, 2008.
+Available from Internet: \url{+ http://dx.doi.org/10.1167/8.4.17}.}
+
+\bibitem[WHO 2007]{Who2007}
+\abntrefinfo{WHO}{WHO}{2007}
+{WHO. \textbf{Global Initiative for thw Elimination of Avoidable Blindness:
+  action plan 2006-2011}.
+[S.l.], 2007.}
+
+\bibitem[Yoder and Vukobratovich 2011]{Yoder2011}
+\abntrefinfo{Yoder and Vukobratovich}{YODER; VUKOBRATOVICH}{2011}
+{YODER, P.~R.; VUKOBRATOVICH, D. \textbf{Field Guide to Binoculars and Scopes}.
+  [S.l.]: SPIE press Bellingham, WA, 2011.  (SPIE Field Guides, FG19).}
+
+\bibitem[Yu 2001]{Yu2001}
+\abntrefinfo{Yu}{YU}{2001}
+{YU, W.~M.
+\textbf{Simulation of Vision through an Actual Human Optical System}.
+Thesis (PhD) --- University of California, Berkeley, 2001.}
+
+\bibitem[Zimbardo, Johnson and McCann 2012]{Zimbardo2012}
+\abntrefinfo{Zimbardo, Johnson and McCann}{ZIMBARDO; JOHNSON; MCCANN}{2012}
+{ZIMBARDO, P.~G.; JOHNSON, R.~L.; MCCANN, V. \textbf{Psychology: core
+  concepts}. 7. ed. New York, NY, USA: Pearson Education, 2012.}
+
+\end{thebibliography}

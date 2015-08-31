@@ -1,0 +1,1541 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.6.6)  24 JUL 2015 01:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**EGauthorGuidelines-pg2015-sub.tex
+(./EGauthorGuidelines-pg2015-sub.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+
+(./egpubl.cls
+Document Class: egpubl 2013/11/28 Document Style for EG Publications v3.57
+\c@table=\count79
+\c@figure=\count80
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\titlespace=\skip41
+\teaserspace=\skip42
+\c@p@volume=\count87
+\bibhang=\skip43
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(./EGauthorGuidelines-pg2015-sub.lbl)
+\openout9 = `EGauthorGuidelines-pg2015-sub.lbl'.
+
+) (./pg2015.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen104
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count91
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing ON on input line 4461.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4694.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count92
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen105
+\Fld@menulength=\count93
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing ON on input line 6308.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+\Hy@SectionHShift=\skip44
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+) (./dfadobe.sty
+Package: dfadobe 2000/03/05 v1.4 T1-encoded Times (except symbols), Courier, He
+lvetica (at 90\%) + math package
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 15.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 15.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 15.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 16.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 16.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 16.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 20.
+
+(./dfT1ptm.fd
+File: dfT1ptm.fd 2000/03/05 DF - Fontinst v1.6 font definitions for T1/ptm.
+) (./dfT1phv.fd
+File: dfT1phv.fd 1997/12/02 Fontinst v1.6 font definitions for T1/phv scaled to
+ 90\%.
+) (./dfT1pcr.fd
+File: dfT1pcr.fd 2000/03/05 DF - Fontinst v1.6 font definitions for T1/pcr.
+)) (./egweblnk.sty
+Package: egweblnk 2004/10/29 v2.2 DF's support for http web links in class egpu
+bl
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (./_Main.tex
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count99
+\output=\toks17
+\linenoprevgraf=\count100
+\linenumbersep=\dimen108
+\linenumberwidth=\dimen109
+\c@linenumber=\count101
+\c@pagewiselinenumber=\count102
+\c@LN@truepage=\count103
+\c@internallinenumber=\count104
+\c@internallinenumbers=\count105
+\quotelinenumbersep=\dimen110
+\bframerule=\dimen111
+\bframesep=\dimen112
+\bframebox=\box26
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count106
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen113
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count107
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count108
+\leftroot@=\count109
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count110
+\DOTSCASE@=\count111
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count112
+\c@MaxMatrixCols=\count113
+\dotsspace@=\muskip11
+\c@parentequation=\count114
+\dspbrk@lvl=\count115
+\tag@help=\toks19
+\row@=\count116
+\column@=\count117
+\maxfields@=\count118
+\andhelp@=\toks20
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks21
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count119
+\rotFPtop=\skip48
+\rotFPbot=\skip49
+\rot@float@box=\box29
+\rot@mess@toks=\toks23
+)
+(./EGauthorGuidelines-pg2015-sub.aux)
+\openout1 = `EGauthorGuidelines-pg2015-sub.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen122
+\scratchbox=\box30
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen123
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box31
+
+
+Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
+(hyperref)                using 11in.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+Package hyperref Info: Link coloring ON on input line 74.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count126
+)
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 84.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 84
+.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 84
+.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 84
+.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 84.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 84.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 84.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 86.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 5.39996pt on input line 115.
+
+Underfull \hbox (badness 1067) in paragraph at lines 119--120
+\T1/ptm/m/n/9 ma-tism, and pres-by-opia) can be de-scribed in terms of
+ []
+
+<eyes.png, id=7, 321.2pt x 281.05pt>
+File: eyes.png Graphic file (type png)
+ <use eyes.png>
+Package pdftex.def Info: eyes.png used on input line 123.
+(pdftex.def)             Requested size: 216.0pt x 189.00581pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<pipeline.png, id=29, 642.4pt x 160.6pt>
+File: pipeline.png Graphic file (type png)
+ <use pipeline.png>
+Package pdftex.def Info: pipeline.png used on input line 135.
+(pdftex.def)             Requested size: 451.4425pt x 112.86276pt.
+
+./_Main.tex:158: Undefined control sequence.
+l.158 ...tured, it is sampled to calculate an {\it
+                                                   Object Space PSF} (OSPSF)...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[2 <./eyes.png>]
+Underfull \vbox (badness 5726) has occurred while \output is active []
+
+ [3 <./pipeline.png>]
+Underfull \hbox (badness 4279) in paragraph at lines 213--214
+[]\T1/ptm/m/n/9 We have printed the de-scribed white- and black-
+ []
+
+<wavefront.png, id=93, 538.01pt x 441.65pt>
+File: wavefront.png Graphic file (type png)
+ <use wavefront.png>
+Package pdftex.def Info: wavefront.png used on input line 220.
+(pdftex.def)             Requested size: 216.0pt x 177.31055pt.
+
+./_Main.tex:234: Double subscript.
+l.234 ... = \sum_{i=-1}^1 c_{2}^{2i} ~ Z_{2}^{2i}_
+                                                  {(x,y)},
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+[4 <./wavefront.png>]
+./_Main.tex:308: Undefined control sequence.
+l.308 ...stalline lens causes the nodal point {\bf
+                                                   N} to be behind the cryst...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./_Main.tex:320: LaTeX Error: \mathbf allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320 		\mathbf{$f/4.0$}
+                                 & 4.5mm                    & 3.4mm         ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./_Main.tex:321: LaTeX Error: \mathbf allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321 		\mathbf{$f/4.5$}
+                                 & 4.0mm                    & 3.0mm         ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./_Main.tex:322: LaTeX Error: \mathbf allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 		\mathbf{$f/5.0$}
+                                 & 3.6mm                    & 2.7mm
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (8.79987pt too wide) in paragraph at lines 316--324
+ [][] 
+ []
+
+<../../__Images/04/camera.jpg, id=127, 3276.24pt x 2457.18pt>
+File: ../../__Images/04/camera.jpg Graphic file (type jpg)
+
+<use ../../__Images/04/camera.jpg>
+Package pdftex.def Info: ../../__Images/04/camera.jpg used on input line 329.
+(pdftex.def)             Requested size: 264.48083pt x 198.3406pt.
+
+<../../__Images/04/eyemodel.png, id=128, 401.5pt x 481.8pt>
+File: ../../__Images/04/eyemodel.png Graphic file (type png)
+
+<use ../../__Images/04/eyemodel.png>
+Package pdftex.def Info: ../../__Images/04/eyemodel.png used on input line 331.
+
+(pdftex.def)             Requested size: 164.16028pt x 196.99524pt.
+
+./_Main.tex:333: Undefined control sequence.
+<argument> ...ective focal length of 13.5mm. {\bf 
+                                                  N} is the nodal point.}}{\...
+l.333 ...h of 13.5mm. {\bf N} is the nodal point.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./_Main.tex:333: Undefined control sequence.
+<argument> ...ective focal length of 13.5mm. {\bf 
+                                                  N} is the nodal point.\fi 
+l.333 ...h of 13.5mm. {\bf N} is the nodal point.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./_Main.tex:333: Undefined control sequence.
+<argument> ...ective focal length of 13.5mm. {\bf 
+                                                  N} is the nodal point.\fi 
+l.333 ...h of 13.5mm. {\bf N} is the nodal point.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (8.64502pt too wide) detected at line 370
+[]
+ []
+
+[5]
+./_Main.tex:412: Undefined control sequence.
+l.412 {\bf
+           Additional Lens' dioptric power} & {\bf Actual dioptric power} \\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./_Main.tex:412: Undefined control sequence.
+l.412 {\bf Additional Lens' dioptric power} & {\bf
+                                                   Actual dioptric power} \\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (2.76698pt too wide) in paragraph at lines 410--419
+ [][] 
+ []
+
+(./img/wb_N_-0to-4.tex
+./img/wb_N_-0to-4.tex:11: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.11 	\small{-4.00 D} &
+                        \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(lens).png, 
+id=146, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-0,00D(lens).png used on input line 14.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(lens).png, 
+id=147, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-1,00D(lens).png used on input line 15.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(lens).png, 
+id=148, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-2,00D(lens).png used on input line 16.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(lens).png, 
+id=149, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-3,00D(lens).png used on input line 17.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(lens).png, 
+id=150, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-4,00D(lens).png used on input line 18.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(simulated).
+png, id=151, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-0,00D(simulated).png used on input line 21.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(simulated).
+png, id=152, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-1,00D(simulated).png used on input line 22.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(simulated).
+png, id=153, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-2,00D(simulated).png used on input line 23.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(simulated).
+png, id=154, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-3,00D(simulated).png used on input line 24.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(simulated).
+png, id=155, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-4,00D(simulated).png used on input line 25.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(comparison)
+.png, id=156, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-0,00D(comparison).png used on input line 28.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(comparison)
+.png, id=157, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-1,00D(comparison).png used on input line 29.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(comparison)
+.png, id=158, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-2,00D(comparison).png used on input line 30.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(comparison)
+.png, id=159, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-3,00D(comparison).png used on input line 31.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(comparison)
+.png, id=160, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-4,00D(comparison).png used on input line 32.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/ptm/m/n/9 Absolute
+ []
+
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(diff).png, 
+id=161, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-0,00D(diff).png used on input line 35.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(diff).png, 
+id=162, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-1,00D(diff).png used on input line 36.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(diff).png, 
+id=163, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-2,00D(diff).png used on input line 37.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(diff).png, 
+id=164, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-3,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-3,00D(diff).png used on input line 38.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(diff).png, 
+id=165, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_
+Camera-4,00D(diff).png used on input line 39.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+) (./img/bw_N_+0to+4.tex
+./img/bw_N_+0to+4.tex:11: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.11 	\small{+4.00 D} &
+                        \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(lens).png, 
+id=166, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+0,00D(lens).png used on input line 14.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(lens).png, 
+id=167, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+1,00D(lens).png used on input line 15.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(lens).png, 
+id=168, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+2,00D(lens).png used on input line 16.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(lens).png, 
+id=169, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+3,00D(lens).png used on input line 17.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(lens).png, 
+id=170, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(lens).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(lens).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+4,00D(lens).png used on input line 18.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(simulated).
+png, id=171, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+0,00D(simulated).png used on input line 21.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(simulated).
+png, id=172, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+1,00D(simulated).png used on input line 22.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(simulated).
+png, id=173, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+2,00D(simulated).png used on input line 23.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(simulated).
+png, id=174, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+3,00D(simulated).png used on input line 24.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(simulated).
+png, id=175, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(simula
+ted).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(simulat
+ed).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+4,00D(simulated).png used on input line 25.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(comparison)
+.png, id=176, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+0,00D(comparison).png used on input line 28.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(comparison)
+.png, id=177, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+1,00D(comparison).png used on input line 29.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(comparison)
+.png, id=178, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+2,00D(comparison).png used on input line 30.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(comparison)
+.png, id=179, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+3,00D(comparison).png used on input line 31.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(comparison)
+.png, id=180, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(compar
+ison).png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(compari
+son).png>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+4,00D(comparison).png used on input line 32.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/ptm/m/n/9 Absolute
+ []
+
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(diff).png, 
+id=181, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+0,00D(diff).png used on input line 35.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(diff).png, 
+id=182, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+1,00D(diff).png used on input line 36.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(diff).png, 
+id=183, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+2,00D(diff).png used on input line 37.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(diff).png, 
+id=184, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+3,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+3,00D(diff).png used on input line 38.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(diff).png, 
+id=185, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(diff).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+4,00D(diff).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_
+Camera+4,00D(diff).png used on input line 39.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+) [6 <../../__Images/04/camera.jpg> <../../__Images/04/eyemodel.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(lens).p
+ng (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,
+00D(lens).png (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-20
+0_Camera-2,00D(lens).png (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D
+/wb_N_20-200_Camera-3,00D(lens).png (PNG copy)> <../../__Images/05/WB_N(20-200)
+_-0D_to_-4D/wb_N_20-200_Camera-4,00D(lens).png (PNG copy)> <../../__Images/05/W
+B_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(simulated).png (PNG copy)> <../
+../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(simulated).png 
+(PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D
+(simulated).png (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-
+200_Camera-3,00D(simulated).png (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D
+_to_-4D/wb_N_20-200_Camera-4,00D(simulated).png (PNG copy)> <../../__Images/05/
+WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(comparison).png (PNG copy)> <.
+./../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(comparison).p
+ng (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,
+00D(comparison).png (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N
+_20-200_Camera-3,00D(comparison).png (PNG copy)> <../../__Images/05/WB_N(20-200
+)_-0D_to_-4D/wb_N_20-200_Camera-4,00D(comparison).png (PNG copy)> <../../__Imag
+es/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-0,00D(diff).png (PNG copy)> <.
+./../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-1,00D(diff).png (PN
+G copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Camera-2,00D(di
+ff).png (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_20-200_Came
+ra-3,00D(diff).png (PNG copy)> <../../__Images/05/WB_N(20-200)_-0D_to_-4D/wb_N_
+20-200_Camera-4,00D(diff).png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(./img/table_wb_N_-0to-4.tex) (./img/table_bw_N_+0to+4.tex)
+(./img/bw_astig90.tex
+<../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(lens).png, id=21
+9, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(lens).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(lens).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2
+,00D@90(lens).png used on input line 14.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(lens).png, id=22
+0, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(lens).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(lens).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2
+,00D@90(lens).png used on input line 15.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(lens).png, id=22
+1, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(lens).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(lens).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2
+,00D@90(lens).png used on input line 16.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(lens).png, id=22
+2, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(lens).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(lens).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2
+,00D@90(lens).png used on input line 17.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(lens).png, id=22
+3, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(lens).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(lens).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2
+,00D@90(lens).png used on input line 18.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(simulated).png, 
+id=224, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(simulated).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(simulated).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2
+,00D@90(simulated).png used on input line 21.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(simulated).png, 
+id=225, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(simulated).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(simulated).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2
+,00D@90(simulated).png used on input line 22.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(simulated).png, 
+id=226, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(simulated).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(simulated).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2
+,00D@90(simulated).png used on input line 23.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(simulated).png, 
+id=227, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(simulated).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(simulated).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2
+,00D@90(simulated).png used on input line 24.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(simulated).png, 
+id=228, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(simulated).
+png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(simulated).p
+ng>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2
+,00D@90(simulated).png used on input line 25.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(comparison).png,
+ id=229, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(comparison)
+.png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(comparison).
+png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2
+,00D@90(comparison).png used on input line 28.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(comparison).png,
+ id=230, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(comparison)
+.png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(comparison).
+png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2
+,00D@90(comparison).png used on input line 29.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(comparison).png,
+ id=231, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(comparison)
+.png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(comparison).
+png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2
+,00D@90(comparison).png used on input line 30.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(comparison).png,
+ id=232, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(comparison)
+.png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(comparison).
+png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2
+,00D@90(comparison).png used on input line 31.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(comparison).png,
+ id=233, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(comparison)
+.png Graphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(comparison).
+png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2
+,00D@90(comparison).png used on input line 32.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/ptm/m/n/9 Absolute
+ []
+
+
+<../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(diff).png, id=23
+4, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(diff).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(diff).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2
+,00D@90(diff).png used on input line 35.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(diff).png, id=23
+5, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(diff).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(diff).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2
+,00D@90(diff).png used on input line 36.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(diff).png, id=23
+6, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(diff).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(diff).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2
+,00D@90(diff).png used on input line 37.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(diff).png, id=23
+7, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(diff).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(diff).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2
+,00D@90(diff).png used on input line 38.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+
+<../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(diff).png, id=23
+8, 113.42375pt x 113.42375pt>
+File: ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(diff).png G
+raphic file (type png)
+
+<use ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(diff).png>
+Package pdftex.def Info: ../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2
+,00D@90(diff).png used on input line 39.
+(pdftex.def)             Requested size: 84.35889pt x 84.35973pt.
+)
+(./img/table_bw_astig90.tex
+./img/table_bw_astig90.tex:14: Undefined control sequence.
+<argument>  \begin {tabular}{cccccc} {\bf 
+                                          } & \textbf {N} & \textbf {C} & \t...
+l.14 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (./img/compact_figure.tex
+<../../__Images/05/synthetic_sims/S_20-200@4x.png, id=239, 90.739pt x 90.739pt>
+File: ../../__Images/05/synthetic_sims/S_20-200@4x.png Graphic file (type png)
+<use ../../__Images/05/synthetic_sims/S_20-200@4x.png>
+Package pdftex.def Info: ../../__Images/05/synthetic_sims/S_20-200@4x.png used 
+on input line 13.
+(pdftex.def)             Requested size: 100.32056pt x 100.32408pt.
+
+<../../__Images/05/synthetic_sims/Wavefront_highorder.png, id=240, 578.16pt x 4
+34.1018pt>
+File: ../../__Images/05/synthetic_sims/Wavefront_highorder.png Graphic file (ty
+pe png)
+ <use ../../__Images/05/synthetic_sims/Wavefront_highorder.png>
+Package pdftex.def Info: ../../__Images/05/synthetic_sims/Wavefront_highorder.p
+ng used on input line 14.
+(pdftex.def)             Requested size: 133.60918pt x 100.32056pt.
+
+<../../__Images/05/synthetic_sims/PSF_highorder.png, id=241, 421.575pt x 421.57
+5pt>
+File: ../../__Images/05/synthetic_sims/PSF_highorder.png Graphic file (type png
+)
+ <use ../../__Images/05/synthetic_sims/PSF_highorder.png>
+Package pdftex.def Info: ../../__Images/05/synthetic_sims/PSF_highorder.png use
+d on input line 15.
+(pdftex.def)             Requested size: 100.32056pt x 100.31807pt.
+
+<../../__Images/05/synthetic_sims/S_20-200_f50_simulated(high-order).png, id=24
+2, 453.695pt x 453.695pt>
+File: ../../__Images/05/synthetic_sims/S_20-200_f50_simulated(high-order).png G
+raphic file (type png)
+
+<use ../../__Images/05/synthetic_sims/S_20-200_f50_simulated(high-order).png>
+Package pdftex.def Info: ../../__Images/05/synthetic_sims/S_20-200_f50_simulate
+d(high-order).png used on input line 16.
+(pdftex.def)             Requested size: 100.32056pt x 100.31857pt.
+
+<../../__Images/05/synthetic_sims/C_20-200@4x.png, id=243, 90.739pt x 90.739pt>
+File: ../../__Images/05/synthetic_sims/C_20-200@4x.png Graphic file (type png)
+<use ../../__Images/05/synthetic_sims/C_20-200@4x.png>
+Package pdftex.def Info: ../../__Images/05/synthetic_sims/C_20-200@4x.png used 
+on input line 19.
+(pdftex.def)             Requested size: 100.32056pt x 100.32408pt.
+
+<../../__Images/05/synthetic_sims/Wavefront_0,5D,-2@45.png, id=244, 578.16pt x 
+434.1018pt>
+File: ../../__Images/05/synthetic_sims/Wavefront_0,5D,-2@45.png Graphic file (t
+ype png)
+ <use ../../__Images/05/synthetic_sims/Wavefront_0,5D,-2@45.png>
+Package pdftex.def Info: ../../__Images/05/synthetic_sims/Wavefront_0,5D,-2@45.
+png used on input line 20.
+(pdftex.def)             Requested size: 133.60918pt x 100.32056pt.
+
+<../../__Images/05/synthetic_sims/PSF_0,5D,-2@45.png, id=245, 421.575pt x 421.5
+75pt>
+File: ../../__Images/05/synthetic_sims/PSF_0,5D,-2@45.png Graphic file (type pn
+g)
+ <use ../../__Images/05/synthetic_sims/PSF_0,5D,-2@45.png>
+Package pdftex.def Info: ../../__Images/05/synthetic_sims/PSF_0,5D,-2@45.png us
+ed on input line 21.
+(pdftex.def)             Requested size: 100.32056pt x 100.31807pt.
+
+<../../__Images/05/synthetic_sims/C_20-200_f50_simulated(0,5D,-2@45).png, id=24
+6, 453.695pt x 453.695pt>
+File: ../../__Images/05/synthetic_sims/C_20-200_f50_simulated(0,5D,-2@45).png G
+raphic file (type png)
+
+<use ../../__Images/05/synthetic_sims/C_20-200_f50_simulated(0,5D,-2@45).png>
+Package pdftex.def Info: ../../__Images/05/synthetic_sims/C_20-200_f50_simulate
+d(0,5D,-2@45).png used on input line 22.
+(pdftex.def)             Requested size: 100.32056pt x 100.31857pt.
+)
+[8 <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(lens).pn
+g (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,0
+0D(lens).png (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200
+_Camera+2,00D(lens).png (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/
+bw_N_20-200_Camera+3,00D(lens).png (PNG copy)> <../../__Images/05/BW_N(20-200)_
++0D_to_+4D/bw_N_20-200_Camera+4,00D(lens).png (PNG copy)> <../../__Images/05/BW
+_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(simulated).png (PNG copy)> <../.
+./__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(simulated).png (
+PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(
+simulated).png (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-2
+00_Camera+3,00D(simulated).png (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_
+to_+4D/bw_N_20-200_Camera+4,00D(simulated).png (PNG copy)> <../../__Images/05/B
+W_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(comparison).png (PNG copy)> <..
+/../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(comparison).pn
+g (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,0
+0D(comparison).png (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_
+20-200_Camera+3,00D(comparison).png (PNG copy)> <../../__Images/05/BW_N(20-200)
+_+0D_to_+4D/bw_N_20-200_Camera+4,00D(comparison).png (PNG copy)> <../../__Image
+s/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+0,00D(diff).png (PNG copy)> <..
+/../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+1,00D(diff).png (PNG
+ copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camera+2,00D(dif
+f).png (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_20-200_Camer
+a+3,00D(diff).png (PNG copy)> <../../__Images/05/BW_N(20-200)_+0D_to_+4D/bw_N_2
+0-200_Camera+4,00D(diff).png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(lens).png (P
+NG copy)> <../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(lens).
+png (PNG copy)> <../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(
+lens).png (PNG copy)> <../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,0
+0D@90(lens).png (PNG copy)> <../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Came
+ra+2,00D@90(lens).png (PNG copy)> <../../__Images/05/BW_20-200_+2@90/bw_N_20-20
+0_Camera+2,00D@90(simulated).png (PNG copy)> <../../__Images/05/BW_20-200_+2@90
+/bw_C_20-200_Camera+2,00D@90(simulated).png (PNG copy)> <../../__Images/05/BW_2
+0-200_+2@90/bw_K_20-200_Camera+2,00D@90(simulated).png (PNG copy)> <../../__Ima
+ges/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(simulated).png (PNG copy)> <
+../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(simulated).png (P
+NG copy)> <../../__Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(compar
+ison).png (PNG copy)> <../../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,0
+0D@90(comparison).png (PNG copy)> <../../__Images/05/BW_20-200_+2@90/bw_K_20-20
+0_Camera+2,00D@90(comparison).png (PNG copy)> <../../__Images/05/BW_20-200_+2@9
+0/bw_Z_20-200_Camera+2,00D@90(comparison).png (PNG copy)> <../../__Images/05/BW
+_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(comparison).png (PNG copy)> <../../__
+Images/05/BW_20-200_+2@90/bw_N_20-200_Camera+2,00D@90(diff).png (PNG copy)> <..
+/../__Images/05/BW_20-200_+2@90/bw_C_20-200_Camera+2,00D@90(diff).png (PNG copy
+)> <../../__Images/05/BW_20-200_+2@90/bw_K_20-200_Camera+2,00D@90(diff).png (PN
+G copy)> <../../__Images/05/BW_20-200_+2@90/bw_Z_20-200_Camera+2,00D@90(diff).p
+ng (PNG copy)> <../../__Images/05/BW_20-200_+2@90/bw_O_20-200_Camera+2,00D@90(d
+iff).png (PNG copy)>] [10 <../../__Images/05/synthetic_sims/S_20-200@4x.png> <.
+./../__Images/05/synthetic_sims/Wavefront_highorder.png (PNG copy)> <../../__Im
+ages/05/synthetic_sims/PSF_highorder.png> <../../__Images/05/synthetic_sims/S_2
+0-200_f50_simulated(high-order).png (PNG copy)> <../../__Images/05/synthetic_si
+ms/C_20-200@4x.png> <../../__Images/05/synthetic_sims/Wavefront_0,5D,-2@45.png 
+(PNG copy)> <../../__Images/05/synthetic_sims/PSF_0,5D,-2@45.png> <../../__Imag
+es/05/synthetic_sims/C_20-200_f50_simulated(0,5D,-2@45).png (PNG copy)>]
+(./EGauthorGuidelines-pg2015-sub.bbl (./EGauthorGuidelines-pg2015-sub.brf)
+\tf@brf=\write3
+\openout3 = `EGauthorGuidelines-pg2015-sub.brf'.
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 56--56
+[]\T1/ptm/m/sc/8 Huang F.-C., Lan-man D., Barsky B. A.,
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 129--129
+[]\T1/ptm/m/sc/8 Pamplona V. F., Pas-sos E. B., Zizka J.,
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 506.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 506.
+ (./EGauthorGuidelines-pg2015-sub.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 506.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 506.
+Package rerunfilecheck Info: File `EGauthorGuidelines-pg2015-sub.brf' has not c
+hanged.
+(rerunfilecheck)             Checksum: 54E7BA138C9F403C5661DC18B4963CA1;1345.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 506.
+ ) ) 
+Here is how much of TeX's memory you used:
+ 7770 strings out of 493109
+ 130897 string characters out of 6135005
+ 312443 words of memory out of 5000000
+ 10910 multiletter control sequences out of 15000+600000
+ 60672 words of font info for 91 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,17n,24p,1318b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2014/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/urw/times/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/ti
+mes/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on EGauthorGuidelines-pg2015-sub.pdf (11 pages, 2507217 bytes).
+PDF statistics:
+ 374 PDF objects out of 1000 (max. 8388607)
+ 263 compressed objects within 3 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+

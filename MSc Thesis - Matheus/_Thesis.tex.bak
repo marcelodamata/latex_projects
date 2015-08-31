@@ -1,0 +1,180 @@
+\nonstopmode		% added to ignore some compiling errors...
+
+\documentclass[ppgc, diss, openright, english]{iiufrgs}
+
+\usepackage[brazilian]{babel}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{epstopdf}
+\usepackage{times}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{url}
+\usepackage{verbatim}
+\usepackage{amsmath,amsfonts}
+\usepackage[tight,footnotesize]{subfigure}
+\usepackage[normalem]{ulem}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{rotating}
+\usepackage{amsbsy}
+\usepackage{latexsym}
+\usepackage{ulem}
+\usepackage{enumerate}
+\usepackage{palatino}
+\usepackage{mathptmx}
+\usepackage{mathtools}
+\usepackage[alf,abnt-emphasize=bf]{abntex2cite}		% pacote para usar citações
+\usepackage[table,xcdraw]{xcolor}					% advanced tables
+\usepackage[]{algorithm2e}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{algpseudocode}% http://ctan.org/pkg/algorithmicx
+%\usepackage{geometry}
+%\usepackage{algorithm}
+%\usepackage{algpseudocode}
+
+% for the contour map 
+%\usepackage{pgfplots} 
+%\pgfplotsset{compat=newest} 
+%\pgfplotsset{plot coordinates/math parser=false} 
+%\newlength\figureheight 
+%\newlength\figurewidth 
+
+%\usepackage[x11names]{xcolor}
+\usepackage[framed,numbered]{mcode}
+
+
+% definições de separação de sílabas
+\input{"__Text/MyHyphenations.tex"}
+% definições de comandos
+\input{"__Text/MyDefs.tex"}
+
+
+
+% informações gerais
+\title{Visual Simulation of Refractive Errors on Monochromatic Images \\ and \\ An Empirical Evaluation of the Absolute Threshold for Vision}
+
+\author{Krueger}{Matheus Luan}
+\advisor[Prof.~Dr.]{Oliveira Neto}{Manuel Menezes de}
+%\coadvisor[Prof.~Dr.]{Kronbauer}{Airton Leite}
+
+\location{Porto Alegre}{RS}
+\date{July}{2015}
+
+% \renewcommand{\nominataReit}{Prof\textsuperscript{a}.~Wrana Maria Panizzi}
+% \renewcommand{\nominataReitname}{Reitora}
+% \renewcommand{\nominataPRE}{Prof.~Jos{\'e} Carlos Ferraz Hennemann}
+% \renewcommand{\nominataPREname}{Pr{\'o}-Reitor de Ensino}
+% \renewcommand{\nominataPRAPG}{Prof\textsuperscript{a}.~Joc{\'e}lia Grazia}
+% \renewcommand{\nominataPRAPGname}{Pr{\'o}-Reitora Adjunta de P{\'o}s-Gradua{\c{c}}{\~a}o}
+% \renewcommand{\nominataDir}{Prof.~Philippe Olivier Alexandre Navaux}
+% \renewcommand{\nominataDirname}{Diretor do Instituto de Inform{\'a}tica}
+% \renewcommand{\nominataCoord}{Prof.~Carlos Alberto Heuser}
+% \renewcommand{\nominataCoordname}{Coordenador do PPGC}
+% \renewcommand{\nominataBibchefe}{Beatriz Regina Bastos Haro}
+% \renewcommand{\nominataBibchefename}{Bibliotec{\'a}ria-chefe do Instituto de Inform{\'a}tica}
+% \renewcommand{\nominataChefeINA}{Prof.~Jos{\'e} Valdeni de Lima}
+% \renewcommand{\nominataChefeINAname}{Chefe do \deptINA}
+% \renewcommand{\nominataChefeINT}{Prof.~Leila Ribeiro}
+% \renewcommand{\nominataChefeINTname}{Chefe do \deptINT}
+
+
+
+% palavras-chave
+\keyword{Low-order aberrations}
+\keyword{Fourier optics}
+\keyword{PSF}
+\keyword{Absolute threshold}
+
+
+\begin{document}
+
+% folha de rosto
+\maketitle
+
+% dedicatória (opcional)
+\clearpage
+\begin{flushright}
+\mbox{}\vfill
+{
+	\sffamily	
+	\itshape
+
+This thesis is dedicated to my parents,\\
+Marcilio Krueger and Ruth Matias Krueger,\\
+for their support, trust and unconditional love.}
+
+\end{flushright}
+
+
+% agradecimentos (opcional)
+\chapter*{Acknowledgments}
+
+This journey would not have been possible without the support of my family, professors and mentors, and friends. I would like to thank my family, for encouraging me in all of my pursuits and inspiring me to follow my dreams. To my friends, thank you for supporting and helping me over the years. I am also grateful to Manuel Menezes de Oliveira Neto e Airton Leite Kronbauer, my mentors, for their sincere and valuable guidance along this journey.
+
+I take this opportunity to express my gratitude to Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul (FAPERGS) and Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) for financial support. I also place on record, my sense of gratitude to one and all, who directly or indirectly, have lent their `eyes' in this venture.
+
+
+% resumo (em inglês)
+\begin{abstract}
+We describe a practical approach for modeling and simulating the visual perception of monochromatic images observed by an optical systems with low-aberrations (\ie, myopia, hyperopia and astigmatism). It is based on Fourier optics and uses a DSLR camera to validate results of how such aberrations affect vision. 
+We demonstrate its effectiveness by comparing the simulation outcomes against optical ground truth with three objective metrics. 
+In addition to simulation, we present a psychophysical experiment together with an apparatus to estimate the absolute threshold for vision. 
+Preliminary evaluation has shown that our technique produces convincing results.
+\end{abstract}
+
+% resumo (em português)
+%\begin{englishabstract}
+%{Simulação da percepção visual de imagens monocromáticas considerando aberração de baixa ordem e um estudo sobre o mínimo visível}		% título
+%{Aberrações de baixa ordem, Óptica de Fourier, PSF, Mínimo visível}			% palavras-chave
+%Esta dissertação apresenta uma abordagem prática para o problema de simulação da percepção de imagens monocromáticas considerando sistemas ópticos com aberrações de baixa ordem (miopia, hipermetropia e astigmatismo). Nossa técnica utiliza óptica de Fourier e uma câmera DSLR para simular e validar os resultados de como as aberrações afetam a visão. Nós demonstramos a sua eficácia utilizando três métricas objetivas de comparação entre os resultados da simulação e imagens capturadas por uma câmera simulando o mesmo nível de aberração. Além da simulação, também apresentamos um estudo psicofísico a respeito do mínimo visível, sugerindo a sua aplicabilidade para se descobrir o equivalente esférico. Uma avaliação preliminar mostra que nossa técnica produz resultados convincentes.
+%\end{englishabstract}
+
+
+
+% lista de abreviaturas e siglas (o parâmetro deve ser a abreviatura mais longa)
+%\begin{listofabbrv}{EEE1}
+%	\item[EE]	Example Example
+%	\item[EEE]	Example Example Example
+%	\item[EEE1]	Example Example Example 1
+%	\item[EEE2]	Example Example Example 2
+%\end{listofabbrv}
+
+% lista de símbolos (o parâmetro deve ser a abreviatura mais longa)
+%\begin{listofsymbols}{$\alpha\beta\pi\omega$}
+%	\item[$\sum{\frac{a}{b}}$] 		Somatório
+%	\item[$\alpha\beta\pi\omega$] 	Fator de inconstância do resultado
+%\end{listofsymbols}
+
+\listoffigures
+\listoftables
+\tableofcontents
+
+% este documento está dividido em vários arquivos '.tex'
+
+\input{__Text/01_Introduction/100.tex}
+\input{__Text/02_Background/200.tex}
+\input{__Text/03_RelatedWork/300.tex}
+\input{__Text/04_Methods/400.tex}
+\input{__Text/05_Results/500.tex}
+\input{__Text/06_Discussion/600.tex}
+
+% referências
+\bibliographystyle{abntex2-alf}
+\bibliography{__Text/07_References/Database}
+
+% apêndices
+\appendix
+	\input{__Text/08_Appendix/A.tex}
+	
+%\annex
+%	\input{__Text/09_Annex/Annex1.tex}
+
+% anexos
+
+\end{document}

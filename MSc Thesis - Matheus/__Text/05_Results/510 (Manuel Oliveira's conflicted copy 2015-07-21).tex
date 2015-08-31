@@ -1,0 +1,119 @@
+% !TEX root = ./../../_Thesis.tex
+
+% section's Name and Label
+\subsection{Comparison of Simulated Results with Ground Truth}
+\label{sec:OpticalSimulation(Results)}
+
+This section compares our simulated results with an optical ground truth, obtained by capturing images of the LogMAR charts shown in Figure~\ref{fig:etdrs_tables}.
+%vision chart containing Sloan letters produced using Equation \ref{eq:lettersize} and placed at three feet from the camera. 
+Whenever we reference to the dioptric power of additional lenses, our simulations account for the values described in Table~\ref{table:newDioptricPower}.  
+%And even though the final arbiter of image quality is the human viewer, 
+To objectively evaluate the quality of the simulated results, we use three objective metrics: the Structural Similarity Image Metric (SSIM)~\cite{Wang2004}, the Peak Signal-to-Noise Ratio (PSNR), and the Absolute Difference (AD) of the pixelwise differences between the captured and simulated images.
+The SSIM metric measures image degradation perceived as change in structural information. 
+%It produces a number between -1.0 (poor similarity) and 1.0 (high similarity). 
+It is calculated for each pixel of a given image with respect to some reference image, based on its relationship to other pixels in an 11-by-11 neighborhood. PSNR is a popular metric in image processing for assessing the quality of image reconstruction and compression. It is often expressed using a decibel scale, and computed as  
+%
+\begin{equation}
+	\centering
+	\label{eq:PSNR}
+	PSNR = 10\log_{10}\left (\frac{peakval^2}{MSE}\right ),
+\end{equation}
+where
+\begin{equation}
+	\centering
+	\label{eq:MSE}
+	MSE = \frac{1}{mn}\sum^{m-1}_{i=0}\sum^{n-1}_{j=0}(I_{ref}(i,j) - I(i,j))^2,
+\end{equation}
+and $I$ is an image being compared to a reference image $I_{ref}$, both with the same dimensions $m \times n$. 
+$peakval$ is the maximum possible value for a pixel. For instance, for a grayscale image using 8-bits per pixel, $peakval=255$. 
+   
+
+%
+The optical simulation described in this thesis was implemented using MATLAB Student Version (R2014a).
+% environment has been chosen to implement the simulation technique described in this thesis. 
+%
+%As described in Section \ref{sec:Validation}, we've used additional lenses to induce low-order aberrations (\ie, myopia, hyperopia, and astigmatism) into a DSLR camera's optical system. This allow us to 
+Figures~\ref{fig:comparison_myopic_wb} and \ref{fig:comparison_myopic_bw} compare images of a letter from the LogMAR charts with 
+%Sloan letters against a 
+white and black background, respectively, captured by the DSLR camera (top row) against the results of our simulations (second row). 
+%of myopic views of the chart. 
+The images in the top rows were captured by the camera with extra lenses, ranging from 0 to +4 diopters, in steps of 1 diopter. The second rows show the images produced using our simulation and considering the adjustments in dioptric power required to account for the 10mm spacing between the camera's main lens and the additional one (Table~\ref{table:newDioptricPower}). Our simulations were applied to the image captured by the camera without any extra lens (\ie, camera +0.00 D). The third and fourth rows of these figures show visual representations of the SSIM an AD metrics, respectively. 
+%Also the comparison when using the SSIM metric (third row) or AD metric (bottom row).
+
+% Myopic 		- Figures
+\input{__Images/05/WB_N(20-200)_+0D_to_+4D/figure.tex}	% fig:comparison_myopic_wb
+\input{__Images/05/BW_N(20-200)_+0D_to_+4D/figure.tex}	% fig:comparison_myopic_bw
+
+%\startsquarepar
+Tables~\ref{table:metrics_myopic_wb} and \ref{table:metrics_myopic_bw} show the numerical results of the SSIM and PSNR metrics for the results presented in Figures~\ref{fig:comparison_myopic_wb} and \ref{fig:comparison_myopic_bw}, respectively. Each row represents the value of a specific metric (\ie, SSIM or PSNR) when comparing an image captured by the DSLR camera with the one obtained using our simulation.  
+The values of the SSIM metric range from -1.0 (poor similarity) to 1.0 (high similarity). In these tables, one can see that all values are very close to 1.0, indicating that our simulations indeed produces results that are structurally very  similar the ground truth. The PSNR values also indicate that our simulations also produce results very similar to the ground truth. Note that PSNR values of 34.0 decibels and above indicate that two images are essentially indistinguishable from each other.  
+
+%It is possible to visualize the results of this metric as an image, which represents the local (\ie, pixel-by-pixel) SSIM index. Such images are illustrated in Figures~\ref{fig:comparison_myopic_wb}(third row) and \ref{fig:comparison_myopic_bw}(third row). We've obtained the PSNR by calculating the mean squared error (MSE) and then dividing the maximum signal value that exists in our optical ground truth image by the MSE. This metric is given in decibel and relies strictly on numeric comparison between images. When two images are identical, the PSNR tends to infinity. Excellent values range from 30 to 50 dB, where higher is better.
+%\stopsquarepar
+
+% Myopic 		- Tables
+\input{__Images/05/WB_N(20-200)_+0D_to_+4D/table.tex}	% table:metrics_myopic_wb
+\input{__Images/05/BW_N(20-200)_+0D_to_+4D/table.tex}	% table:metrics_myopic_bw
+
+%\noindent
+
+Figures~\ref{fig:comparison_hyperopic_wb} and \ref{fig:comparison_hyperopic_bw} provide similar comparisons for hyperopic vision. The results in the top row were captured with a DSLR camera and extra lenses ranging from 0 to -4 diopters, in steps of -1 diopter. The second rows show our simulated results. Likewise, the third row presents the visualization of the pixel-by-pixel SSIM index when comparing the captured and simulated hyperopic results, and the bottom one presents the absolute difference of images. Tables~\ref{table:metrics_hyperopic_wb} and \ref{table:metrics_hyperopic_bw} provide the SSIM and PSNR values comparing the simulated images to the ground truth, attesting the quality of our results. 
+
+% Hyperopic 	- Figures and Tables
+\input{__Images/05/WB_N(20-200)_-0D_to_-4D/figure.tex}	% fig:comparison_hyperopic_wb
+\input{__Images/05/WB_N(20-200)_-0D_to_-4D/table.tex}	% table:metrics_hyperopic_wb
+\input{__Images/05/BW_N(20-200)_-0D_to_-4D/table.tex}	% table:metrics_hyperopic_bw
+\input{__Images/05/BW_N(20-200)_-0D_to_-4D/figure.tex}	% fig:comparison_hyperopic_bw
+
+Besides simulating the effects of defocus (\ie, myopia and hyperopia), we have also compared the results of our simulation for astigmatic vision.
+%We've also explored simulations of more effects rather than defocus. 
+This is illustrated in Figures~\ref{fig:comparison_astig-2@90_wb} and \ref{fig:comparison_astig-2@180_wb}.
+% shows the simulation of an astigmatic perception. 
+The Sloan letters in Figure~\ref{fig:comparison_astig-2@90_wb} were captured by the DSLR camera with an additional cylindrical lens with -2.0 diopters, rotated in order to simulate astigmatism in the horizontal meridian ($\phi = 90^{\circ}$ \review{??????}). Similarly, Figure~\ref{fig:comparison_astig-2@180_wb} shows the real and simulated astigmatism in the vertical meridian ($\phi = 180^{\circ}$). 
+Figures~\ref{fig:comparison_astig+2@90_bw} and \ref{fig:comparison_astig+2@180_bw} show the captured and simulated results for a cylindrical lens with +2.0 diopters. 
+Tables~\ref{table:metrics_astig-2} and \ref{table:metrics_astig-2} show the results of the SSIM and PSNR metrics for these astigmatic results. Again, the SSIM indices are close 1.0 and the PSNR is close to or above 34.00 decibels for all cases.
+%Both astigmatic simulations outcomes were evaluated using the SSIM and PSNR metrics, and the resultant values when comparing the simulated images to the reference ones are shown in .
+
+Note that for the astigmatic results, part of the differences visible in 
+the astigmatic local SSIM index visualizations (Figures~\ref{fig:comparison_astig-2@90_wb}, \ref{fig:comparison_astig-2@180_wb}, \ref{fig:comparison_astig+2@90_bw} and \ref{fig:comparison_astig+2@180_bw}) is due to the difficulty of a precise manual alignment of the astigmatic axes to the ones used in our simulations. Any deviation from the simulated angles affects the results of the quality metric.
+
+\input{__Images/05/WB_20-200_-2@90/figure.tex}			% fig:comparison_astig-2@90_wb
+\input{__Images/05/WB_20-200_-2@180/figure.tex}			% fig:comparison_astig-2@180_wb
+%\input{__Images/05/WB_20-200_-2@90/table.tex}			% table:metrics_astig-2@90_wb
+%\input{__Images/05/WB_20-200_-2@180/table.tex}			% table:metrics_astig-2@180_wb
+\input{__Images/05/astig-2_merged.tex}					% table:metrics_astig-2
+
+
+\input{__Images/05/BW_20-200_+2@90/figure.tex}			% fig:comparison_astig+2@90_bw
+\input{__Images/05/BW_20-200_+2@180/figure.tex}			% fig:comparison_astig+2@180_bw
+%\input{__Images/05/BW_20-200_+2@90/table.tex}			% table:metrics_astig+2@90_bw
+%\input{__Images/05/BW_20-200_+2@180/table.tex}			% table:metrics_astig+2@180_bw
+\input{__Images/05/astig+2_merged.tex}					% table:metrics_astig+2
+
+
+\review{Continuar deste ponto}
+
+
+Figures~\ref{fig:myopia_nckzo_wb} and ~\ref{fig:myopia_nckzo_bw} show the simulation of myopia when looking to several 20/200 Sloan letters with different background colors at a distance of three feet. The input column of both figures present the synthetic Sloan letters used as reference to perform the simulations illustrated in the following column. The others columns are related to the optical ground truth comparison, with the use of additional lenses and a DSLR camera. Note that as our method involves the convolution of the image with a blurring kernel (\ie, PSF), the noise of the reference optical images (camera ones) is attenuated in our simulations (simulation ones).
+
+
+\input{__Images/05/WB_NCKZO_myopia/figure.tex}			% fig:myopia_nckzo_wb
+\input{__Images/05/BW_NCKZO_myopia/figure.tex}			% fig:myopia_nckzo_bw
+
+Our method can also be used to simulate any combination of visual aberrations. Even though its validation depends on the existence of an optical ground truth, the method is not limited to the ones configured in previous camera's setup. Figure \ref{fig:synthetic_sims} (top row) shows how a combination of low-order aberrations (myopia and astigmatism) affect the perception of a Sloan letter. Figures~\ref{fig:synthetic_sims}(b) and \ref{fig:synthetic_sims}(c) illustrate the intermediate steps involved in the blurring process, representing the normalized aberrated wavefront and the spatial PSF, respectively. Figures~\ref{fig:synthetic_sims} (e-l) simulates higher values of pure astigmatism or spherical aberration than the ones possible to capture with our trial lens set. Finally, Figure~\ref{fig:synthetic_sims} (bottom row) shows the simulation outcomes when considering only higher-order aberrations. For these results, we've generated arbitrary values for some of the wavefront's coefficients ($j=6$, $j=7$, $j=9$, $j=13$, $j=15$ and $j=18$) described in Section~\ref{subsec:VisualAberrations}.
+
+
+% bw comparison figure
+%\input{__Images/05/synthetic_sims/synthetic_sims.tex}
+\input{__Images/05/synthetic_sims/compact_figure.tex}	% fig:synthetic_sims
+
+% simulation 1:		+0.5 Sph.	-2.0 Cyl.	45		WB
+% simulation 2:		+0.0 Sph.	-4.0 Cyl	135		WB
+% simulation 3:		+6.0 Sph	 0.0 Cyl	0		WB
+% simulation 4:		high-order aberration			WB
+		%coeff(13) = 0.2;
+		%coeff(9)  = 0.1;
+		%coeff(18) = 0.3;
+		%coeff(7) =  0.2;
+		%coeff(15) = 0.4;
+		%coeff(6)  = 0.2;

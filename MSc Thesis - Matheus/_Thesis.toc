@@ -1,0 +1,38 @@
+\select@language {english}
+\select@language {brazilian}
+\select@language {english}
+\contentsline {chapter}{1~Introduction}{15}{CHAPTER.1}
+\contentsline {section}{\numberline {1.1}Contributions}{16}{section.1.1}
+\contentsline {section}{\numberline {1.2}Thesis Structure}{18}{section.1.2}
+\contentsline {chapter}{2~Background}{19}{CHAPTER.2}
+\contentsline {section}{\numberline {2.1}Sensation and Perception}{19}{section.2.1}
+\contentsline {section}{\numberline {2.2}Psychophysics}{20}{section.2.2}
+\contentsline {section}{\numberline {2.3}The Human Eye}{21}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Anatomy}{22}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Visual Aberrations}{23}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Optics and Wavefront Theory}{24}{section.2.4}
+\contentsline {section}{\numberline {2.5}Summary}{25}{section.2.5}
+\contentsline {chapter}{3~Related Work}{33}{CHAPTER.3}
+\contentsline {section}{\numberline {3.1}Visual Simulation}{33}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Optical Simulation Techniques}{33}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Non-Optical Simulation Techniques}{34}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Estimating/Correcting Visual Optical Aberrations}{34}{section.3.2}
+\contentsline {chapter}{4~Visual Simulation of Refractive Errors}{39}{CHAPTER.4}
+\contentsline {section}{\numberline {4.1}Target Images and Capture Setup}{39}{section.4.1}
+\contentsline {section}{\numberline {4.2}Modeling Visual Aberrations}{40}{section.4.2}
+\contentsline {section}{\numberline {4.3}Image Filtering}{41}{section.4.3}
+\contentsline {section}{\numberline {4.4}Validation}{41}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Vertex Distance and Ray Transfer Matrix}{42}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Comparison of Simulated Results with Ground Truth}{44}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Summary}{59}{section.4.5}
+\contentsline {chapter}{5~Absolute Threshold for Vision}{61}{CHAPTER.5}
+\contentsline {section}{\numberline {5.1}Experimental Design}{61}{section.5.1}
+\contentsline {section}{\numberline {5.2}Participants}{64}{section.5.2}
+\contentsline {section}{\numberline {5.3}Quasi-Random Algorithm}{64}{section.5.3}
+\contentsline {section}{\numberline {5.4}Measurements}{65}{section.5.4}
+\contentsline {section}{\numberline {5.5}Results}{66}{section.5.5}
+\contentsline {section}{\numberline {5.6}Summary}{68}{section.5.6}
+\contentsline {chapter}{6~Conclusion}{73}{CHAPTER.6}
+\contentsline {section}{\numberline {6.1}Future Work}{73}{section.6.1}
+\contentsline {chapter}{\xspace {}References}{75}{schapter.6}
+\contentsline {chapter}{\MakeUppercase {Appendix} A~--- Anonymous Participant Data}{79}{CHAPTER.A}

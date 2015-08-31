@@ -1,0 +1,26 @@
+\select@language {english}
+\select@language {brazilian}
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Sensory threshold of five senses}}{21}{table.2.1}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Zernike polynomials up to the fifth order.}}{24}{table.2.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Camera apertures and pupil diameters for various f-numbers.}}{42}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Actual increase in dioptric power obtained by placing additional lenses with various powers in front of the camera's main lens considering a vertex distance of 10mm.}}{44}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces SSIM and PSNR table of myopic perception (Figure~\ref {fig:comparison_myopic_wb})}}{45}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces SSIM and PSNR table of myopic perception (Figure~\ref {fig:comparison_myopic_bw})}}{45}{table.4.4}
+\contentsline {table}{\numberline {4.5}{\ignorespaces SSIM and PSNR table of hyperopic perception (Figure~\ref {fig:comparison_hyperopic_wb})}}{45}{table.4.5}
+\contentsline {table}{\numberline {4.6}{\ignorespaces SSIM and PSNR table of hyperopic perception (Figure~\ref {fig:comparison_hyperopic_bw})}}{46}{table.4.6}
+\contentsline {table}{\numberline {4.7}{\ignorespaces SSIM and PSNR table of the negative astigmatic perception}}{46}{table.4.7}
+\contentsline {table}{\numberline {4.8}{\ignorespaces SSIM and PSNR table of the positive astigmatic perception}}{46}{table.4.8}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

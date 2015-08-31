@@ -1,0 +1,48 @@
+% !TEX root = ./../../_Thesis.tex
+
+% chapter's came and label
+\chapter{Visual Simulation of Refractive Errors} %% on Monochromatic Images}
+\label{chap:Methods}
+
+%Visual simulation is a complex, but highly important task. As we discussed, several techniques narrowed the problem by simulating specific factors that affect perception (\eg, glare), while others simplified the problem by simulating only optical aberrations. In 
+This chapter describes the approach used for visual simulation of low-order refractive errors. 
+Figure \ref{fig:roadmap} illustrates its pipeline, showing equivalent operations specified both in the spatial and in the frequency domain. 
+%
+Since we are primarily interested in visual acuity, all experiments and discussions presented here are based on monochromatic images. 
+%A comprehensive simulation of refractive errors in the context of color vision would require considering color-perception issues which are beyond the scope of this thesis. 
+%Additionally, we explain how the technique can be combined with the minimum amount of light perceived by an individual. 
+As visual blurring is a depth-dependent phenomenon, we have adopted the simplifying assumption that the observed images are at some constant depth. For this, we used two sets of charts containing standard Sloan letters (Figure~\ref{fig:sloanletters}): black letters on white background, as well as white letters on black background. 
+%we need to capture image and depth information of the object. Then, by converting the low-order aberrations of the individual's optical system into a PSF, we can perform a filtering either in the spatial or frequency domain.
+%Figure \ref{fig:roadmap} illustrates the pipeline adopted to simulate refractive errors. The equivalent operations are specified both in the spatial and in the frequency domain. 
+The following sections provide the details of each step.    
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1.0\linewidth]{__Images/04/roadmap.png}
+	\caption[A roadmap for Fourier optics]{The pipeline for simulating visual aberrations. In the spatial domain one needs the eye's point spread function (PSF), whereas in frequency domain the optical transfer function (OTF) is required \cite{Mollon2003}.} 
+	%
+	%both in spatial and frequency domain
+	%A roadmap for Fourier optics illustrating two paths for computing the retinal image of an object when the point spread function of the eye (PSF), or equivalently, the optical transfer function (OTF), is known \cite{Mollon2003}.}
+	\label{fig:roadmap}
+\end{figure}
+
+% Capturing Image Information Section
+\input{__Text/04_Methods/410.tex}
+
+% Specifying Aberrations Section
+\input{__Text/04_Methods/420.tex}
+
+% Image Filtering Section
+\input{__Text/04_Methods/430.tex}
+
+% Validation Section
+\input{__Text/04_Methods/440.tex}
+
+% ABCD Matrix Subsection
+\input{__Text/04_Methods/421.tex}
+
+% Optical Simulation Section
+\input{__Text/05_Results/510.tex}
+	
+% ---  ABSOLUTE THRESHOLD MATERIAL
+

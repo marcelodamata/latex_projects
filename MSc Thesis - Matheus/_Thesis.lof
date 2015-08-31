@@ -1,0 +1,86 @@
+\select@language {english}
+\select@language {brazilian}
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The human eye and some low-order aberrations}}{15}{figure.1.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Perfect eye}}}{15}{figure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Myopia}}}{15}{figure.1.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Hyperopia}}}{15}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces A real scene with objects at different depths}}{17}{figure.1.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}{figure.1.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}{figure.1.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{17}{figure.1.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces General flow of sensory information}}{20}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The Electromagnetic Spectrum and Visible Light}}{26}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Human Senses: organs, energy stimuli, and sensory receptors}}{27}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Construction of the optotype E}}{28}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Parts of the Eye}}{29}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces The unit circle}}{30}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Zernike terms expansion pyramid}}{31}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces General concepts of wavefront}}{32}{figure.2.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{32}{figure.2.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{32}{figure.2.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the vision-realistic rendering algorithm}}{36}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \citeonline {Yu2001} uses data captured using a Shack-Hartmann aberrometer (a) to simulate blur at specific depth values (b) and (c).}}{37}{figure.3.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Shack-Hartmann device's output}}}{37}{figure.3.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Focused at infinity}}}{37}{figure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Focused at 0.5m}}}{37}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces The temporal glare pipeline}}{37}{figure.3.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Simulations with arbitrary wavefronts}}{47}{figure.4.17}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A roadmap for Fourier optics}}{48}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Standard Sloan Letters.}}{48}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces LogMAR Charts}}{49}{figure.4.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{49}{figure.4.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{49}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Example of a normalized Wavefront map}}{49}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Optical systems used in the validation process}}{50}{figure.4.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{50}{figure.4.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{50}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Vertex distance and our optical setup}}{50}{figure.4.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{50}{figure.4.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{50}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a myopic camera.}}{51}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a myopic camera}}{52}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a hyperopic camera}}{53}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a hyperopic camera}}{54}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a astigmatic camera}}{55}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a astigmatic camera}}{56}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a astigmatic camera}}{57}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a astigmatic camera}}{58}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Comparisons of our simulated results against ground truth obtained with a myopic camera}}{58}{figure.4.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Geometrical perspective of the circle of confusion}}{62}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Stages of the Absolute Threshold experiment}}{63}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Apparatus designed for the psychophysical experiment}}{63}{figure.5.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{63}{figure.5.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{63}{figure.5.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{63}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Estimating absolute threshold for vision}}{66}{figure.5.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{66}{figure.5.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{66}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Calibration procedure}}{66}{figure.5.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{66}{figure.5.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{66}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Plot of minimum intensity perceived with and without cycloplegic eyedrops for two sub- jects from the sample}}{67}{figure.5.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{67}{figure.5.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{67}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Impact of accommodation in the detection of the minimum intensity}}{70}{figure.5.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{70}{figure.5.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{70}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Polynomial fitting of the absolute threshold values of Subject 1}}{71}{figure.5.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {with eye drops}}}{71}{figure.5.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {without eye drops}}}{71}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Polynomial fitting of the absolute threshold values of Subject 11}}{72}{figure.5.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {with eye drops}}}{72}{figure.5.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {without eye drops}}}{72}{figure.5.9}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

@@ -1,0 +1,141 @@
+
+
+\newcommand{\beq}					{\begin{equation}}
+\newcommand{\eeq}					{\end{equation}}
+
+\newcommand{\DioptreEq}			{\beq D = \frac{1}{f} \eeq}
+\newcommand{\ThinLensEq}			{\beq \frac{1}{d_{o}} + \frac{1}{d_{i}} = \frac{1}{f} \eeq}	
+\newcommand{\MagnificationEq}		{\beq M = -\frac{d_{i}}{d_{o}} \eeq}	
+
+\newcommand{\ArcMinutesEq}			{\beq 1^{\circ} = 60 \ arcmin = 60' = 3600 \ arcsec = 3600'' \eeq}
+
+
+% to justify last line of a paragraph
+\newcommand{\startsquarepar}{%
+    \par\begingroup \parfillskip 0pt \relax}
+\newcommand{\stopsquarepar}{%
+    \par\endgroup}
+
+
+%Vectors
+\newcommand{\vVector}               {       \vec{v}             }
+\newcommand{\normal}                {       \vec{n}             }
+\newcommand{\forces}                {       \vec{f}             }
+\newcommand{\velocity}              {       \vec{u}             }
+\newcommand{\velocityr}             {       \mathbf{u_r}        }
+\newcommand{\uVector}               {       \vec{\mathbf{u}}    }
+
+%Rotational
+\newcommand{\angularVelocity}       {   	\vec{\mathbf{\omega}} }
+\newcommand{\forcesRotational}      {       \mathbf{f_r}        }
+\newcommand{\rVector}               {   	\vec{\mathbf{r}}   }
+
+%Ith components
+\newcommand{\ithU}                  {   u_i    }
+\newcommand{\ithContravariantU}     {   u^i    }
+\newcommand{\ithXi}                 {   \mathbf{\xi^i}  }
+\newcommand{\ithG}                  {   \mathbf{g^i}    }
+\newcommand{\ithCovariantG}         {   \mathbf{g_i}    }
+\newcommand{\ithScaleFactor}        {       h_i         }
+\newcommand{\dS}                    {   \;\mathrm{d}S   }
+\newcommand{\dV}                    {   \;\mathrm{d}V   }
+\newcommand{\diff}                  {   \mathrm{d}      }
+
+%Indexes
+\newcommand{\ithVelocity}           {   \mathbf{u}_i    }
+\newcommand{\ithT}                  {   \mathbf{t}_i    }
+\newcommand{\ithB}                  {   \mathbf{b}_i    }
+\newcommand{\ithI}                  {   \mathbf{i}_i    }
+\newcommand{\ithF}                  {   \mathbf{f}_i    }
+
+%Tensors
+\newcommand{\stressTensor}          {   \mathbf{T}      }
+\newcommand{\deformationTensor}     {   \mathbf{D}      }
+\newcommand{\shearTensor}           {   \tau_{ij}       }
+
+%Pressure derivatives
+\newcommand{\pInterpRight}          {   \tilde{P}_{i + \frac{1}{2}, j} }
+\newcommand{\pInterpLeft}           {   \tilde{P}_{i - \frac{1}{2}, j} }
+\newcommand{\pInterpTop}            {   \tilde{P}_{i, j + \frac{1}{2}} }
+\newcommand{\pInterpBottom}         {   \tilde{P}_{i, j - \frac{1}{2}} }
+\newcommand{\pressure}              {   \mathit{p}      }
+
+%Operands
+\newcommand{\divergence}            {   \mathrm{div}\;  }
+\newcommand{\gradient}              {   \mathrm{grad}\; }
+\newcommand{\curl}                  {   \mathrm{curl}\; }
+
+%Constants
+\newcommand{\Reynolds}              {   \mathrm{Re}     }
+\newcommand{\kroeneckerDelta}       {   \delta_{ij}     }
+\newcommand{\JacobianMatrix} {
+    \left |
+    \begin{array}{cc}
+        \frac{\partial x_1}{\partial \xi_1} & \frac{\partial x_1}{\partial \xi_2} \\
+        \frac{\partial x_2}{\partial \xi_1} & \frac{\partial x_2}{\partial \xi_2} \\
+    \end{array}
+    \right |
+}
+%Others
+\newcommand{\tDiff}                 {   \mathrm{d}      }
+\newcommand{\dT}                    {   \mathrm{d}t      }
+\newcommand{\dOmega}                {   \;\mathrm{d}\Omega    }
+
+
+
+
+\newcommand\baligned{\begin{aligned}}
+\newcommand\ealigned{\end{aligned}}
+
+\newcommand\ie{{\em i.e.}}
+\newcommand\eg{{\em e.g.}}
+\newcommand\etal{{et~al.}}
+\newcommand\twoD{2-D}
+\newcommand\threeD{3-D}
+
+\newcommand\Table[1]{Table~\ref{tab:#1}}
+\newcommand\Algo[1]{Algorithm~\ref{algo:#1}}
+\newcommand\Fig[1]{Figure~\ref{fig:#1}}
+\newcommand\Eq[1]{Eq.~(\ref{eq:#1})}
+\newcommand\SubEq[2]{Eq.~(\ref{eq:#1}#2)}
+\newcommand\Eqs[2]{Eqs.~(\ref{eq:#1}-\ref{eq:#2})}
+\newcommand\EqsAnd[2]{Eqs.~(\ref{eq:#1}) and (\ref{eq:#2})}
+\newcommand\Sec[1]{Section~\ref{sec:#1}}
+\newcommand\Subsec[1]{Section~\ref{subsec:#1}}
+\newcommand\Chapter[1]{Chapter~\ref{chap:#1}}
+\newcommand\App[1]{Appendix~\ref{app:#1}}
+
+\newcommand\red{\color{red}}
+\newcommand\green{\color{OliveGreen}}
+\newcommand\blue{\color{blue}}
+\newcommand\brown{\color{Brown}}
+\newcommand\orange{\color{RedOrange}}
+\newcommand\wrong[1]{{\color{red}#1}}
+
+
+\newcommand\remove[1]{{\red \sout{#1}}}
+\newcommand\removeWnote[2]{{\red \sout{#1}} {\textit{\green(#2)}}}
+\newcommand\replace[2]{{\red \sout{#1}} {\orange #2}}
+\newcommand\add[1]{{\orange #1}}
+\newcommand\addWComment[2]{{\orange #1} {\textit{\green(#2)}}}
+\newcommand\review[1]{{\blue #1}}
+\newcommand\reviewWComment[2]{{\blue #1} {\textit{\green(#2)}}}
+\newcommand\addComment[1]{\textit{\green(#1)}}
+
+
+\newcommand\todoi[1]{\todo[inline, color=green!40]{TODO: #1}}
+
+\newenvironment{tightlist}{
+  \begin{list}{$\bullet$}{%
+    \advance\partopsep by \topsep
+    \setlength{\topsep}{0em}
+    \setlength{\itemsep}{0em}
+    \setlength{\parsep}{0.2em}
+    \setlength{\leftmargin}{1.5em}
+    \setl\textbf{}ength{\rightmargin}{0em}
+    \setlength{\itemindent}{0em}
+  }
+}
+{\end{list}}
+
+\newcommand\shortcite[1]{(\citeyear{#1})}

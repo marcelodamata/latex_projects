@@ -1,0 +1,27 @@
+% !TEX root = ./../../_Thesis.tex
+
+% section's Name and Label
+\section{Image Filtering}
+\label{sec:Image Filtering}
+
+Given $S$, $C$, $R$, and $\phi$,  
+one can obtain the effective aberration function as $kW_{(x,y)}$, where $k$ is the spherical wavenumber (\ie, $k = 2\pi/\lambda$), and 
+$W_{(x,y)}$ is the wavefront aberration function expressed using the Zernike polymials. For the case of low-order aberrations, $W_{(x,y)}$ is defined by Equation~\ref{eq:W}, which takes into account oblique astigmatism, defocus, and vertical astigmatism. 
+%\begin{equation}
+%W_{(x,y)} = \sum_{i=-1}^1 c_{2}^{2i} \, Z_{2}^{2i}_{(x,y)}.
+%\end{equation}
+ $\lambda = 550nm$ is a standard wavelength used for monochromatic simulation \cite{Dai2008}.
+ The pupil function $P_{(x,y)}$ is a binary  function that evaluates to 1 inside the projected aperture, and 0 outside it. According to \citet{Goodman2005}, the {\it generalized pupil function} $\mathbb{P}_{(x,y)}$ is given by:
+\begin{equation}
+	\centering
+	\label{eq:generalizedpupilf}
+	\mathbb{P}_{(x,y)} = P_{(x,y)} \exp[j*k*W_{(x,y)}],
+\end{equation}
+%
+where $j = \sqrt{-1}$. Note that $\mathbb{P}_{(x,y)}$ is a complex number. One can obtain the point spread function of the optical system as the power spectrum of $\mathbb{P}$, \ie,  $PSF = \left | \mathcal{F}(\mathbb{P}) \right | ^ {2}$, where $\mathcal{F}$ is the Fourier transform operator.  Given the PSF and 
+an input image $I$, one can simulate the view of $I$ through the given optical system computing the 2-D convolution
+$O = PSF \otimes I$.
+% and compute the two-dimensional convolution of $I$ and $\overline{PSF}$ in order to obtain the output image $O$. This is the simpler path for computing retinal images of a Sloan letter $S$ for a fixed depth, carried out entirely in the spatial domain. 
+A more efficient computation of $O$ can be obtained in the frequency domain (this is illustrated by purple arrows in Figure~\ref{fig:roadmap}). In that case, $O = \mathcal{F}^{-1}(\mathcal{F}(I) * OTF)$, where $OTF = \mathcal{F}(PSF)$ is the {\it the optical transfer function} and $*$ is the element-wise multiplication. 
+%
+%the product of the object spectrum $\mathcal{F}(I)$ and the optical transfer function $OTF = \mathcal{F}(PSF)$ is the image spectrum, from which the image itself can be obtained by inverse Fourier transform $\mathcal{F}^{-1}(I * \overline{PSF}).

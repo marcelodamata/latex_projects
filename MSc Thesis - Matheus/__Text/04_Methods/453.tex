@@ -1,0 +1,33 @@
+% !TEX root = ./../../_Thesis.tex
+
+% section's Name and Label
+\section{Quasi-Random Algorithm}
+\label{subsec:QuasiRandomAlgorithm}
+
+The algorithm developed to determine the absolute threshold is divided into two major phases. In the first one, the goal is to find a tight interval containing the absolute threshold as quick as possible. While this can be efficiently performed using a binary search, we adopted a quasi-random strategy to avoid bias among repetitions of the test.
+%limit the intensity range as minimum and fast as possible. 
+%The adopted approach guarantees that, in the best case, a single interaction is sufficient to discover the unknown range. 
+In the second phase, the participant uses a slider to precisely determine his/her absolute threshold. The second step could be replaced by a binary search.
+
+%\review{verificar para usar pacote algorithm}
+
+\begin{lstlisting}[caption = {Estimating the absolute threshold for vision}]
+set minimum intensity to zero
+set maximum intensity to one
+% Phase 1: determining a tight interval for the absolute threshold 
+do {
+	Randomly get a new intensity value 
+	      inside [minimum intensity, maximum intensity], 
+				in multiples of 0.1
+	turn on a single pixel in the device screen
+	ask if the user see the stimulus
+	
+	if stimulus is visible
+		maximum intensity = new intensity
+	else
+		minimum intensity = new intensity
+	
+} while ((maximum intensity - minimum intensity) > 0.1)
+% Phase 2: absolute threshold determination
+< user interaction based on a slider >
+\end{lstlisting}

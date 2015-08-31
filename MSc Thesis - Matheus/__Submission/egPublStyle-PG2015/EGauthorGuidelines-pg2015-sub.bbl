@@ -1,0 +1,170 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{\uppercase{MGDA{\etalchar{*}}15}}
+
+\bibitem[Bar04]{Barsky2004}
+\textsc{Barsky B.~A.}:
+\newblock Vision-realistic rendering: Simulation of the scanned foveal image
+  from wavefront data of human subjects.
+\newblock In \emph{Proceedings of the 1st Symposium on Applied Perception in
+  Graphics and Visualization} (New York, NY, USA, 2004), APGV '04, ACM,
+  pp.~73--81.
+
+\bibitem[BL76]{Bailey1976}
+\textsc{Bailey I., Lovie J.}:
+\newblock New design principles for visual acuity letter charts.
+\newblock \emph{American journal of optometry and physiological optics 53}, 11
+  (November 1976), 740---745.
+
+\bibitem[CMR90]{Camp1990}
+\textsc{Camp J., Maguire L., Robb R.}:
+\newblock An efficient ray tracing algorithm for modeling visual performance
+  from corneal topography.
+\newblock In \emph{Visualization in Biomedical Computing, 1990., Proceedings of
+  the First Conference on} (May 1990), pp.~278--285.
+
+\bibitem[Dai08]{Dai2008}
+\textsc{Dai G.-m.}:
+\newblock \emph{Wavefront Optics for Vision Correction}.
+\newblock SPIE PRESS, Bellingham, Washington USA, 2008.
+
+\bibitem[Dee05]{Deering2005}
+\textsc{Deering M.~F.}:
+\newblock A photon accurate model of the human eye.
+\newblock \emph{ACM Trans. Graph. 24}, 3 (jul 2005), 649--658.
+
+\bibitem[DSRF{\etalchar{*}}14]{Dias2014}
+\textsc{Dias-Santos A., Rosa R., Ferreira J., Cunha J.~P., Brito C., Paix{\~a}o
+  A., Toscano A.}:
+\newblock Higher order aberrations in amblyopic children and their role in
+  refractory amblyopia.
+\newblock \emph{Revista Brasileira de Oftalmologia 73} (12 2014), 358--362.
+
+\bibitem[Gly14]{Glytsis2014}
+\textsc{Glytsis E.~N.}:
+\newblock Example of a simple optical system.
+\newblock Class Note, May 2014.
+
+\bibitem[Goo05]{Goodman2005}
+\textsc{Goodman J.~W.}:
+\newblock \emph{Introduction to Fourier optics}, 3~ed.
+\newblock Roberts and Company Publishers, Englewood, 2005.
+
+\bibitem[HLBR12]{Huang2012}
+\textsc{Huang F.-C., Lanman D., Barsky B.~A., Raskar R.}:
+\newblock Correcting for optical aberrations using multilayer displays.
+\newblock \emph{ACM Trans. Graph. 31}, 6 (nov 2012), 185:1--185:12.
+
+\bibitem[HWBR14]{Huang2014}
+\textsc{Huang F.-C., Wetzstein G., Barsky B.~A., Raskar R.}:
+\newblock Eyeglasses-free display: Towards correcting visual aberrations with
+  computational light field displays.
+\newblock \emph{ACM Trans. Graph. 33}, 4 (July 2014), 59:1--59:12.
+
+\bibitem[KMH95]{Kolb1995}
+\textsc{Kolb C., Mitchell D., Hanrahan P.}:
+\newblock A realistic camera model for computer graphics.
+\newblock In \emph{Proceedings of the 22Nd Annual Conference on Computer
+  Graphics and Interactive Techniques} (New York, NY, USA, 1995), SIGGRAPH '95,
+  ACM, pp.~317--324.
+
+\bibitem[KSCC11]{Kronbauer2011}
+\textsc{Kronbauer A.~L., Schor P., Chamon W., Carvalho L. A. V.~d.}:
+\newblock Vision measurement in candelas: description of a psychophysical
+  technique to quantify luminous intensity.
+\newblock \emph{Arquivos brasileiros de oftalmologia 74}, 2 (2011), 91---96.
+
+\bibitem[LGGB94]{Liang1994}
+\textsc{Liang J., Grimm B., Goelz S., Bille J.~F.}:
+\newblock Objective measurement of wave aberrations of the human eye with the
+  use of a hartmann--shack wave-front sensor.
+\newblock \emph{J. Opt. Soc. Am. A 11}, 7 (Jul 1994), 1949--1957.
+
+\bibitem[MGDA{\etalchar{*}}15]{Montalto2015}
+\textsc{Montalto C., Garcia-Dorado I., Aliaga D., Oliveira M.~M., Meng F.}:
+\newblock A total variation approach for customizing imagery to improve visual
+  acuity.
+\newblock \emph{ACM Trans. Graph. 34}, 3 (may 2015), 28:1--28:16.
+
+\bibitem[MKL97]{Mostafawy1997}
+\textsc{Mostafawy S., Kermani O., Lubatschowski H.}:
+\newblock Virtual eye: retinal image visualization of the human eye.
+\newblock \emph{Computer Graphics and Applications, IEEE 17}, 1 (Jan 1997),
+  8--12.
+
+\bibitem[MOF09]{Machado2009}
+\textsc{Machado G.~M., Oliveira M., Fernandes L.~A.}:
+\newblock A physiologically-based model for simulation of color vision
+  deficiency.
+\newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 15},
+  6 (Nov 2009), 1291--1298.
+
+\bibitem[PC81]{Potmesil1981}
+\textsc{Potmesil M., Chakravarty I.}:
+\newblock A lens and aperture camera model for synthetic image generation.
+\newblock \emph{ACM SIGGRAPH Computer Graphics 15}, 3 (1981), 297--305.
+
+\bibitem[PMOR10]{Pamplona2010}
+\textsc{Pamplona V.~F., Mohan A., Oliveira M.~M., Raskar R.}:
+\newblock Netra: Interactive display for estimating refractive errors and focal
+  range.
+\newblock \emph{ACM Trans. Graph. 29}, 4 (7 2010), 77:1--77:8.
+
+\bibitem[POAR12]{Pamplona2012b}
+\textsc{Pamplona V.~F., Oliveira M.~M., Aliaga D.~G., Raskar R.}:
+\newblock Tailored displays to compensate for visual aberrations.
+\newblock \emph{ACM Trans. Graph. 31}, 4 (2012), 81.
+
+\bibitem[POB09]{Pamplona2009}
+\textsc{Pamplona V.~F., Oliveira M.~M., Baranoski G. V.~G.}:
+\newblock Photorealistic models for pupil light reflex and iridal pattern
+  deformation.
+\newblock \emph{ACM Trans. Graph. 28}, 4 (sep 2009), 106:1--106:12.
+
+\bibitem[PPZ{\etalchar{*}}11]{Pamplona2011}
+\textsc{Pamplona V.~F., Passos E.~B., Zizka J., Oliveira M.~M., Lawson E., Clua
+  E., Raskar R.}:
+\newblock Catra: Interactive measuring and modeling of cataracts.
+\newblock In \emph{ACM SIGGRAPH 2011 Papers} (New York, NY, USA, 2011),
+  SIGGRAPH '11, ACM, pp.~47:1--47:8.
+
+\bibitem[PR{\etalchar{*}}88]{Pelli1988}
+\textsc{Pelli D., Robson J., et~al.}:
+\newblock The design of a new letter chart for measuring contrast sensitivity.
+\newblock In \emph{Clinical Vision Sciences} (1988), Raphael's Ltd, London.
+
+\bibitem[RIF{\etalchar{*}}09]{Ritschel2009}
+\textsc{Ritschel T., Ihrke M., Frisvad J.~R., Coppens J., Myszkowski K., Seidel
+  H.-P.}:
+\newblock Temporal glare: Real-time dynamic simulation of the scattering in the
+  human eye.
+\newblock \emph{Computer Graphics Forum 28}, 2 (2009), 183--192.
+
+\bibitem[Sch10]{Schwartz2010}
+\textsc{Schwartz S.~H.}:
+\newblock \emph{Visual perception: A clinical orientation}, 4~ed.
+\newblock McGraw-Hill Medical Pub. Division, New York, NY, USA, 2010.
+
+\bibitem[TT11]{Thibos2011}
+\textsc{Thibos L.~N., Thibos C.~A.}:
+\newblock Geometrical optical analysis of defocused retinal images to compute
+  the size of retinal blur circles relative to object size.
+\newblock \emph{US Ophthalmic Review 4}, 2 (7 2011), 104--106.
+
+\bibitem[WA08]{Watson2008}
+\textsc{Watson A.~B., Ahumada Jr A.~J.}:
+\newblock Predicting visual acuity from wavefront aberrations.
+\newblock \emph{Journal of Vision 8}, 4 (2008), 17.
+
+\bibitem[WBSS04]{Wang2004}
+\textsc{Wang Z., Bovik A., Sheikh H., Simoncelli E.}:
+\newblock Image quality assessment: from error visibility to structural
+  similarity.
+\newblock \emph{Image Processing, IEEE Transactions on 13}, 4 (April 2004),
+  600--612.
+
+\bibitem[Yu01]{Yu2001}
+\textsc{Yu W.~M.}:
+\newblock \emph{Simulation of Vision through an Actual Human Optical System}.
+\newblock PhD thesis, University of California, Berkeley, 2001.
+
+\end{thebibliography}
